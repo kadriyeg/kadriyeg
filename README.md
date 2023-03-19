@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kadriyeg
-- 👀 I’m interested in mobile applications
-- 🌱 I’m currently learning Kotlin
+- 👀 I’m interested in developing mobile apps and websites
+- 🌱 I’m currently developing websites with React
 - 📫 How to reach me : https://www.linkedin.com/in/kadriye-g-5578b0207/
 
 <!---
